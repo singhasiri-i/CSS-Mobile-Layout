@@ -2,7 +2,7 @@
 
 > **Language**: HTML & CSS
 
-> **Description**: Create a mobile layout using CSS.
+> **Description**: Create a mobile layout using CSS grid.
 
 > **Project preview**:
 
